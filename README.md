@@ -5,6 +5,7 @@ In this project I plotted student success data as a function of year and campus 
 The vizzes are:
 
 CHM151 : https://public.tableau.com/app/profile/stephen.stewart4198/viz/SLOPerformanceforChemistry151/CHM151SLOPerformance
+
 CHM152 : https://public.tableau.com/app/profile/stephen.stewart4198/viz/CHM152SLOPerformance/CHM151SLOPerformance
 
 The python code and raw data files are uploaded as well since they do not contain PII.
